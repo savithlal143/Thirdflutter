@@ -48,4 +48,5 @@ workflows:
       email:
         recipients:
           - savith.lal@gmail.com
+          - charles.vijay@kadellabs.com
 
